@@ -1,6 +1,10 @@
 # M5-Stack
 Code base for the M5 Stack used in the Icarus Solar Project!
 
+Measured and displayed critical values of the system, while uploading in real-time to Adafruit.IO a cloud based service.
+
+![Image of Stack](https://github.com/michaeli-g/M5-Stack/blob/master/m5stack.png)
+
 Included Libraries
  - Adafruit_BusIO
       https://github.com/adafruit/Adafruit_BusIO
